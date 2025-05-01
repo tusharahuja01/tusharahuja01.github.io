@@ -1,4 +1,3 @@
-# tusharahuja01.github.io
-Portfolio
+# Portfolio
 
 https://tusharahuja01.github.io/
